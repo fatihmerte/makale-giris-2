@@ -6,5 +6,5 @@ thumbnail: /assets/uploads/urban-blueprint-minimalist-kitchen-375x195.jpg
 rating: 5
 ---
 aggagaggagasgggggggggggggggggggggggggggggggggggggggggggggggggggggggg
-
+<h5>Blog Detay : title </h5>
 ![aya](/assets/uploads/urban-blueprint-minimalist-kitchen-375x195.jpg "tat")
