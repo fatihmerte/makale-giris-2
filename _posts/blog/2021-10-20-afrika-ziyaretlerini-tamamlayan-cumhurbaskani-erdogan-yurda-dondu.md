@@ -3,7 +3,7 @@ layout: post
 title: Afrika ziyaretlerini tamamlayan Cumhurbaşkanı Erdoğan yurda döndü
 date: 2021-10-20 00:00:00
 thumbnail: https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1678000/cumhurbaskani-recep-tayyip-erdogan-aa-1678952.jpg
-rating: 2
+rating: 5
 ---
 <p>
 	Cumhurbaşkanı Erdoğan ve beraberindekileri taşıyan özel uçak "TUR" saat 23.45'te <a href="https://www.trthaber.com/etiket/istanbul/" target="_blank">İstanbul</a> Atatürk Havalimanı'na indi.</p>

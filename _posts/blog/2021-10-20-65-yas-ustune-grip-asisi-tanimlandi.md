@@ -3,7 +3,7 @@ layout: post
 title: 65 yaş üstüne grip aşısı tanımlandı
 date: 2021-10-20 00:00:00
 thumbnail: https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1678000/asi-aa-1678939.jpg
-rating: 2
+rating: 4
 ---
 <p>
 	Koronavirüs Bilim Kurulu, Sağlık Bakanı Fahrettin Koca başkanlığında video konferans yöntemiyle toplandı. Toplantının gündeminde, salgının seyri, genç nüfusun vakalar içindeki dağılımı, aşı programının değerlendirmesi ve influenza yer aldı.</p>

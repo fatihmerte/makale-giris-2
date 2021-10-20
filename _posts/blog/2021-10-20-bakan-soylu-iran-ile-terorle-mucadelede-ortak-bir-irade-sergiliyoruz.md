@@ -3,7 +3,7 @@ layout: post
 title: Bakan Soylu: İran ile terörle mücadelede ortak bir irade sergiliyoruz
 date: 2021-10-20 00:00:00
 thumbnail: https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1678000/suleyman-soylu-iran-aa-1678948.jpg
-rating: 5
+rating: 2
 ---
 <p>
 	Resmi temaslarda bulunmak üzere Tahran'a giden İçişleri Bakanı <a href="https://www.trthaber.com/etiket/suleyman-soylu/" target="_blank">Süleyman Soylu</a> ve İranlı mevkidaşı Ahmed Vahidi arasında yapılan ikili ve heyetler arası görüşmelerin ardından mutabakat zaptı imzalandı ve ortak basın açıklaması yapıldı.</p>
