@@ -1,4 +1,3 @@
-
  --- 
  layout: blog
  title: Php veritabanından Gelen Post
