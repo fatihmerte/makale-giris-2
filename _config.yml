@@ -2,7 +2,7 @@
 title: Eşya Depolama Ev Eşyası Depolama
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-Eşya Depolama Ev Eşyası Depolama
+Ev esyasi depolama
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://esyadepolama.netlify.app/" # the base hostname & protocol for your site
 twitter_username: 
